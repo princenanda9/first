@@ -1,3 +1,4 @@
 this is the file of test
 this is the second line of test file
-this is the third line of test file 
+this is the third line of test file
+this is the fourth line of test file from local git repo 
